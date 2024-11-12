@@ -1,0 +1,1 @@
+This project involves cleaning and analyzing survey data from FiveThirtyEight's Star Wars survey, sourced from SurveyMonkey and available on GitHub. The primary goals are to demonstrate essential data cleaning techniques for complex survey responses and to explore insights into Star Wars fandom, including viewer preferences and character popularity.
