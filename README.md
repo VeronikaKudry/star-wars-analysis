@@ -4,4 +4,4 @@ This project involves cleaning and analyzing survey data from FiveThirtyEight's 
 
 Do you want to know what film is considered **the best**? Or if there is any **trend between education level and familiarity with the "Star Wars" franchise**? or maybe who is **the most unfavorable character of the entire galaxy**? Dive in!
 
-You can find the code and visuals in the Star Wars Survey.ipynb notebook above. The required libraries are listed in requirements.txt. The source data is available in data folder.
+You can find the code and visuals in the *[Star Wars Survey.ipynb](https://github.com/VeronikaKudry/star-wars-analysis/blob/a424d278da1268d300f7b64ef0ff8d896fe3d161/Star%20Wars%20Survey.ipynb)* notebook. The required libraries are listed in requirements.txt. The source data is available in data folder.
